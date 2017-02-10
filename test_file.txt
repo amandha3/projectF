@@ -5,3 +5,5 @@ This is a line before Commit 1  Version 1.0
 This is Second line before Commit 2  Version 2.0
 
 This is Third line before Commit 3  Version 3.0
+
+This is Fourth line before Commit 4  Version 4.0
